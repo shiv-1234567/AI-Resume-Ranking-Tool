@@ -51,7 +51,9 @@ Ranking Output
 
 ✅ Deploy on Streamlit Cloud or Hugging Face Spaces
 
-👨‍💻 Author
+
+
+#👨‍💻 Author
 Shivendra Prasad Mishra
 Master’s Student, IIT Delhi | Data Science & AI Enthusiast
 
